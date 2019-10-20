@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ciphon</string>
+    <string name="string_add_files">Add Files</string>
+    <string name="string_decrypt">DECRYPT</string>
+    <string name="string_no_files_message">Nothing Here!\nPress + to add some Files to Ciphon</string>
+    <string name="string_encrypted_file_name">File Name</string>
+    <string name="string_encryption_date">Date</string>
+    <string name="string_encrypted_file_size">Size</string>
+</resources>
